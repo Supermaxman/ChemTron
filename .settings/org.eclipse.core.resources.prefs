@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/me/weinzierl/main/ChemTron.java=UTF-8
+encoding//src/me/weinzierl/main/DecompWindow.java=UTF-8
+encoding//src/me/weinzierl/main/DoubleDispWindow.java=UTF-8
+encoding//src/me/weinzierl/main/HelpWindow.java=UTF-8
+encoding//src/me/weinzierl/main/IonicFormulasWindow.java=UTF-8
+encoding//src/me/weinzierl/main/MainPracticeWindow.java=UTF-8
+encoding//src/me/weinzierl/main/MainWindow.java=UTF-8
+encoding//src/me/weinzierl/main/PracticeDecompWindow.java=UTF-8
+encoding//src/me/weinzierl/main/PracticeDoubleDispWindow.java=UTF-8
+encoding//src/me/weinzierl/main/PracticeSingleDispWindow.java=UTF-8
+encoding//src/me/weinzierl/main/PracticeSynthWindow.java=UTF-8
+encoding//src/me/weinzierl/main/SingleDispWindow.java=UTF-8
+encoding//src/me/weinzierl/main/SynthWindow.java=UTF-8
+encoding//src/me/weinzierl/objects/elements/Element.java=UTF-8
+encoding//src/me/weinzierl/objects/elements/RandomGenerator.java=UTF-8
+encoding//src/me/weinzierl/objects/elements/Solver.java=UTF-8
